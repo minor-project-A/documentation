@@ -5,9 +5,14 @@ What will the project be ?
 Notable Features Include :
 
 - setting a timer on when to drop
-- knowing if the container is empty
 - use voice recognition to accesse the medicine
 - having a remote controlled view of the device from an app 
+
+
+Enhancements :
+ 
+- medication history
+- refill alerts 
 
 
 Name :
@@ -16,9 +21,10 @@ tbd
 
 Things required :
 
-- a microcontroller
-- a medicine dispense model
-- a timer
-- a Mic 
-- a display (might be touch or button controlled)
-- a speaker
+- microcontroller [Done] 
+- medicine dispense model [Done]
+- timer [Done]
+- Mic 
+- display (might be touch or button controlled) [Done]
+- speaker
+- clock 
